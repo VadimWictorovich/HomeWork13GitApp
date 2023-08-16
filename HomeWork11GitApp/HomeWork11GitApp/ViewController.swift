@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         // тут решается первая задача
+        // в этой строчке у нас будет конфликт
     }
 
 
