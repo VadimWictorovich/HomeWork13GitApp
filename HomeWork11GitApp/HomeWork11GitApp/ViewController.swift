@@ -1,4 +1,4 @@
-//
+ //
 //  ViewController.swift
 //  HomeWork11GitApp
 //
@@ -12,6 +12,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+
+        // тут решается вторая задача
+        // тут у нас тоже будет конфликт
+        // все седелано
+        
+        
+        // тут решается первая задача
+        // в этой строчке у нас будет конфликт!
+
     }
 
 
